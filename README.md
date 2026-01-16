@@ -8,7 +8,7 @@
 
 ### 石啸林 · Software Development Engineer
 
-**桥介数物（深圳）有限科技公司**
+**桥介数物（深圳）科技有限公司**
 
 [![Email](https://img.shields.io/badge/xlgogogo1@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xlgogogo1@163.com)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DawnCclin.DawnCclin&left_color=gray&right_color=blue)
