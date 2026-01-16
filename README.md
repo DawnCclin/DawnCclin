@@ -166,15 +166,10 @@
 </tr>
 </table>
 
-### GitHub 统计概览
+### GitHub 统计
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DawnCclin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnCclin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DawnCclin&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
+  <img src="./github-metrics.svg" width="100%" alt="github metrics" />
 </div>
 
 <br/>
@@ -183,14 +178,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawnCclin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&custom_title=Contribution%20Graph" />
-</div>
-
-<br/>
-
-### GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DawnCclin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 <br/>
